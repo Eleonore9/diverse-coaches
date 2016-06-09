@@ -4,31 +4,35 @@
 *Note: This is an experimental project.*
 
 
-**My point of view:**
+#### My point of view:
 
 I've coached at weekend coding workshops (Clojure Bridge London), but never organised one.
+
 I've advertised/relayed the need for women coaches for DjangoGirls London or Clojure Bridge London (and Berlin). And sometimes it's effective!
+
 I've wanted to travel to coach at coding workshops outside London, but haven't done it (yet).
 
 
-**Target audience:**
+#### Target audience:
 
 Say you're organising (or planning to organise) a workshop aiming to introduce a public from underrepresented group(s) in tech to coding.
+
 Here I'm thinking about workshops like Rails Bridge/Girls, Django Girls, Clojure Bridge, Go Bridge, etc... But it can apply to other events.
 
-You probably want your team of coaches to reflect the diversity represented in your group of students.
+
+**You probably want your team of coaches to reflect the diversity represented in your group of students.**
 
 
-**Potential issue:**
+#### Potential issue:
 
 The reason those workshops exist in the first place is to help increase the diversity in the tech industry by showing minorities that coding is definitely a skill within their reach.
 
-This implies a limited pool of potential coaches from underrepresented groups.
+**This implies a limited pool of potential coaches from underrepresented groups.**
 
 
-**Potential solution:**
+#### Potential solution:
 
-It could be interesting to have one place for workshop organisers to reach out to coaches. And this public repository could be it.
+It could be interesting to have **one place for workshop organisers to reach out to coaches**. And this public repository could be it.
 
 1) Click on `Issues`, then `New issue`.
 
@@ -44,9 +48,10 @@ It could be interesting to have one place for workshop organisers to reach out t
 Hopefully other people can then relay this info into global or local mailing lists, Slack groups, IRC channels... or tweet it.
 
 
-**Other use for the repo:**
+#### Other use for the repo:
 
 Please, don't hesitate adding resources for workshop organisers.
+
 Also don't hesitate to name potential sponsors willing to help fly/host coaches to/in workshop locations.
 
 1) Click on `Fork` to fork the repository.
