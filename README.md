@@ -41,6 +41,9 @@ It could be interesting to have **one place for workshop organisers to reach out
 3) In the issue description add:
 
    * a way to contact you (REQUIRED)
+   * a few lines about the event: programming language/technology, event description, rough schedule (REQUIRED)
+   * a link to the event's Code of Conduct (REQUIRED)
+   * a link to the event webpage (OPTIONAL)
    * a specific minority group you'd like represented within your team (OPTIONAL)
    * a possibility to pay for coaches to come from a different city/country (OPTIONAL)
 
